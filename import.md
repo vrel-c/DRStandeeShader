@@ -7,5 +7,16 @@ title: 導入方法
 <small>※Lite版・通常版共通の手順となります。</small>
 
 ## UnityPackageのインポート
+1. 対象のUnityプロジェクトを事前に開いておきます。
+2. ダウンロードしたZIPファイルを解凍し、中にある `.unitypackage` ファイルをダブルクリックするか、Unityの `Project` ウィンドウにドラッグ＆ドロップします。
+3. インポート画面（Import Unity Package）が表示されたら、右下の **[Import]** ボタンをクリックします。
 
-略
+## 内容の確認
+正常にインポートが完了すると、`Assets` フォルダ内にフォルダが自動生成されます。生成されるフォルダ名や構造は、ご利用のエディションによって異なります。
+
+* **Lite版の場合**
+  * `Assets/VRElectroCenter/DRStandeeShader_Lite` フォルダが生成されます。
+* **通常版 (Standard) の場合**
+  * `Assets/VRElectroCenter/DRStandeeShader` フォルダが生成されます。
+
+※正しくインポートが行えない場合は、インポートの際にエラー（画面下の赤文字）が表示されていないか等を確認してください。
