@@ -5,7 +5,6 @@ export default {
   themeConfig: {
     // 左側のメニュー（サイドバー）の設定
     siteTitle: "DRStandeeShader", 
-    logo: '/logo.png', 
     sidebar: [
       {
         text: 'はじめに',
@@ -13,10 +12,6 @@ export default {
           { text: '概要', link: '/' },
         ]
       }
-    ],
-    // 右上のメニュー設定
-    nav: [
-      { text: 'ホーム', link: '/' }
     ]
   }
 }
