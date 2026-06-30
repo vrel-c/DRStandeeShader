@@ -2,7 +2,7 @@ name: Deploy VitePress site to Pages
 
 on:
   push:
-    branches: [draft] # draftブランチに保存されたら自動で動かす設定です
+    branches: [draft]
 
 permissions:
   contents: read
@@ -25,7 +25,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
       - name: Install dependencies
         run: npm add -D vitepress
       - name: Build with VitePress
