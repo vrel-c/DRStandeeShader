@@ -16,16 +16,14 @@ title: 権利表記・制作者情報
 
 ## 制作者情報
 
-本アセットに関するお問い合わせ、不具合報告、最新情報の確認等については、以下の各種窓口からお願いいたします。
+本アセットに関するお問い合わせ、不具合報告、最新情報の確認等については、以下のリンクからお願いいたします。
 
 * **サークル名**
   * 霊境電化中心 / VRElectroCenter
-* **BOOTHショップ（問い合わせ窓口）**
-  * [霊境電化中心 / VRElectroCenter BOOTH](https://vrel-c.booth.pm/)
 * **作者**
-  * Saila_E
-* **公式X（旧Twitter）**
-  * [@sailara_elcton](https://x.com/sailara_elcton)
+  * Saila_E （X: [@sailara_elcton](https://x.com/sailara_elcton)）
+* **BOOTHショップ（お問い合わせ窓口）**
+  * [霊境電化中心 / VRElectroCenter BOOTH](https://vrel-c.booth.pm/)
 
 ## 免責事項
 
