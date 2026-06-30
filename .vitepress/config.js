@@ -4,6 +4,8 @@ export default {
   description: "『DRStandeeShader / タテカンシェーダ』のオンラインマニュアルです。",
   themeConfig: {
     // 左側のメニュー（サイドバー）の設定
+    siteTitle: "DRStandeeShader", 
+    logo: '/logo.png', 
     sidebar: [
       {
         text: 'はじめに',
