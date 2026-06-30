@@ -1,5 +1,5 @@
 ---
-title: 概要（トップ）
+title: トップ
 ---
 
 # DRStandeeShader / タテカンシェーダ 利用マニュアル
