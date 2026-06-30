@@ -4,7 +4,7 @@ title: 導入方法
 
 # 導入方法
 本シェーダーおよびサンプルマテリアル等をUnityプロジェクトに導入する手順です。<br/>
-<small>※Lite版・通常版共通の手順となります。</small>
+<small>※ Lite版・通常版共通の手順となります。</small>
 
 ## UnityPackageのインポート
 1. 対象のUnityプロジェクトを事前に開いておきます。
@@ -16,7 +16,7 @@ title: 導入方法
 
 * **Lite版の場合**
   * `Assets/VRElectroCenter/DRStandeeShader_Lite` フォルダが生成されます。
-* **通常版 (Standard) の場合**
+* **通常版の場合**
   * `Assets/VRElectroCenter/DRStandeeShader` フォルダが生成されます。
 
-※正しくインポートが行えない場合は、インポートの際にエラー（画面下の赤文字）が表示されていないか等を確認してください。
+<small>※ 正しくインポートが行えない場合は、インポートの際にエラー（画面下の赤文字）が表示されていないか等を確認してください。</small>
