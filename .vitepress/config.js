@@ -1,5 +1,6 @@
 export default {
   title: "DRStandeeShader / タテカンシェーダ",
+  base: '/DRStandeeShader/',
   description: "『DRStandeeShader / タテカンシェーダ』のオンラインマニュアルです。",
   themeConfig: {
     // 左側のメニュー（サイドバー）の設定
