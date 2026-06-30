@@ -6,15 +6,13 @@ export default {
     ['meta', { name: 'robots', content: 'noindex, nofollow' }]
   ],
   themeConfig: {
-    // 左側のメニュー（サイドバー）の設定
     siteTitle: "DRStandeeShader", 
     sidebar: [
-      {
-        text: 'はじめに',
-        items: [
-          { text: '概要', link: '/' },
-        ]
-      }
+      { text: '概要（トップ）', link: '/' },
+      { text: '導入方法', link: '/import' },
+      { text: 'Lite版について', link: '/lite' },
+      { text: '通常版について', link: '/standard' },
+      { text: '権利表記等', link: '/license' }
     ]
   }
 }
