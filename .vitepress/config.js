@@ -5,10 +5,6 @@ export default {
   head: [
     ['meta', { name: 'robots', content: 'noindex, nofollow' }]
   ],
-  srcDir: 'docs',
-  vite: {
-    publicDir: '../public' 
-  },
   locales: {
     root: {
       label: '日本語',
