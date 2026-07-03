@@ -1,6 +1,4 @@
-import { defineConfig } from 'vitepress'
-
-export default defineConfig {
+export default {
   title: "DRStandeeShader / タテカンシェーダ",
   base: '/DRStandeeShader/',
   description: "『DRStandeeShader / タテカンシェーダ』のオンラインマニュアルです。",
