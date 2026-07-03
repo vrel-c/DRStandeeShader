@@ -12,7 +12,11 @@ export default {
       { text: '導入方法', link: '/import' },
       { text: 'Lite版について', link: '/lite' },
       { text: '通常版について', link: '/standard' },
-      { text: '権利表記等', link: '/license' }
+      { text: '権利表記等', link: '/license' },
+      {
+        text: 'v1.0.2',
+        items: []
+      }
     ]
   }
 }
