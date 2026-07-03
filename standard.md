@@ -406,7 +406,7 @@ Assets/
 
 * `DRStandeeShader/Prefab/Sample_Standee_GraphicDresser`
 
-このサンプルには、**看板に設定されたマテリアルのテクスチャを、複数枚の画像から順番に切り替える機能**を持つ独自のUdonSharpスクリプト `GraphicDresser` が付与されています。
+このサンプルには、**マテリアルのメインテクスチャを、事前に用意した複数枚の画像へ順番に切り替える機能**を持つ独自のUdonSharpスクリプト `GraphicDresser` が付与されています。
 
 クリック（Interact）操作により、表示画像が順番に切り替わります。<br/>
 また、VRChat内での同期に対応しており、同一ワールド内の他プレイヤーにも同じ表示状態が反映されます。
@@ -429,7 +429,7 @@ Assets/
 
 * `DRStandeeShader/Prefab/Sample_Standee_MaterialDresser.prefab`
 
-このサンプルには、**MeshRendererに割り当てられたマテリアルを、複数のプリセットから順番に切り替える機能**を持つ独自のUdonSharpスクリプト `MaterialDresser` が付与されています。
+このサンプルには、**MeshRendererに設定されたマテリアルを、事前に用意した複数のプリセットへ順番に差し替える機能**を持つ独自のUdonSharpスクリプト `MaterialDresser` が付与されています。
 
 クリック（Interact）操作により、表示マテリアルが順番に切り替わります。<br/>
 また、VRChat内の同期に対応しており、同一ワールド内の他プレイヤーにも同じ状態が反映されます。
