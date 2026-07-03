@@ -368,9 +368,11 @@ Assets/
 これらはシェーダー単体の挙動確認用として利用できるほか、簡易的なスクリプト（Udon / U#）による挙動制御を含む構成のものもあります。<br/>
 スクリプトについては、他のオブジェクトへコンポーネントとして追加して利用することも可能です。
 
-::: details `DRStandeeShader/Prefab/Sample_FaceCutoutBoard`
+::: details Sample_FaceCutoutBoard.prefab
 
 ### 顔出し看板
+
+* `DRStandeeShader/Prefab/Sample_FaceCutoutBoard.prefab`
 
 ボードの一部を切り抜き、プレイヤーが顔を出す用途を想定したサンプルです。<br/>
 切り抜きマスクや厚み表現の基本動作のサンプルとしてご利用ください。
