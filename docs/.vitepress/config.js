@@ -1,7 +1,7 @@
 export default {
   title: "DRStandeeShader / タテカンシェーダ",
   base: '/DRStandeeShader/',
-  description: "『DRStandeeShader / タテカンシェーダ』のオンラインマニュアルです。",
+  description: "Unity向けカスタムシェーダー、DRStandeeShader / タテカンシェーダ のオンラインマニュアルです。",
   head: [
     ['meta', { name: 'robots', content: 'noindex, nofollow' }]
   ],
