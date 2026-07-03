@@ -14,7 +14,7 @@ export default {
       { text: '通常版について', link: '/standard' },
       { text: '権利表記等', link: '/license' },
       {
-        text: 'v1.0.2',
+        text: 'ver1.0.2',
         items: []
       }
     ]
