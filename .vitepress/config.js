@@ -6,7 +6,10 @@ export default {
     ['meta', { name: 'robots', content: 'noindex, nofollow' }]
   ],
   themeConfig: {
-    siteTitle: "DRStandeeShader", 
+    siteTitle: "DRStandeeShader", ,
+    nav: [
+      { text: 'ver1.0.2', activeMatch: '' }
+    ],
     sidebar: [
       { text: '概要（トップ）', link: '/' },
       { text: '導入方法', link: '/import' },
