@@ -368,9 +368,9 @@ Assets/
 これらはシェーダー単体の挙動確認用として利用できるほか、簡易的なスクリプト（Udon / U#）による挙動制御を含む構成のものもあります。<br/>
 スクリプトについては、他のオブジェクトへコンポーネントとして追加して利用することも可能です。
 
-::: details Sample_FaceCutoutBoard.prefab
-
 ### 顔出し看板
+
+::: details Sample_FaceCutoutBoard.prefab
 
 * `DRStandeeShader/Prefab/Sample_FaceCutoutBoard.prefab`
 
@@ -379,13 +379,13 @@ Assets/
 
 :::
 
-::: details Sample_Standee_GraphicDresser.prefab
-
 ### 画像が切り替わる等身大パネル
+
+::: details Sample_Standee_GraphicDresser.prefab
 
 * `DRStandeeShader/Prefab/Sample_Standee_GraphicDresser`
 
-このサンプルには、**看板に設定されたマテリアルのテクスチャを、複数枚の画像から順番に切り替える機能**を持つ独自のUdonSharpスクリプト （`GraphicDresser`）が付与されています。
+このサンプルには、**看板に設定されたマテリアルのテクスチャを、複数枚の画像から順番に切り替える機能**を持つ独自のUdonSharpスクリプト `GraphicDresser` が付与されています。
 
 クリック（Interact）操作により、表示画像が順番に切り替わります。<br/>
 また、VRChat内での同期に対応しており、同一ワールド内の他プレイヤーにも同じ表示状態が反映されます。
@@ -402,11 +402,13 @@ Assets/
 
 :::
 
-### マテリアルが切り替わる等身大パネル（MaterialDresser）
+### マテリアルが切り替わる等身大パネル
 
-* `DRStandeeShader/Prefab/Sample_Standee_MaterialDresser`
+::: details Sample_Standee_MaterialDresser.prefab
 
-このサンプルには、**MeshRendererに割り当てられたマテリアルを、複数のプリセットから順番に切り替える機能**を持つ独自のUdonSharpスクリプトが付与されています。
+* `DRStandeeShader/Prefab/Sample_Standee_MaterialDresser.prefab`
+
+このサンプルには、**MeshRendererに割り当てられたマテリアルを、複数のプリセットから順番に切り替える機能**を持つ独自のUdonSharpスクリプト `MaterialDresser` が付与されています。
 
 クリック（Interact）操作により、表示マテリアルが順番に切り替わります。<br/>
 また、VRChat内の同期に対応しており、同一ワールド内の他プレイヤーにも同じ状態が反映されます。
@@ -421,12 +423,15 @@ Assets/
 * マテリアルを直接差し替えるため、同じマテリアルを複数オブジェクトで共有している場合でも影響は独立します。
 * ネットワーク同期はインデックス値のみを共有し、実際のマテリアルは各クライアント側で適用されます。
 
----
+:::
 
-### 常にプレイヤーの方向を向く等身大パネル（TraceHeadingHandler）
-* `DRStandeeShader/Prefab/Sample_Billboard`
+### 常にプレイヤーの方向を向く等身大パネル
 
-このサンプルには、**オブジェクトの向きをプレイヤーや任意対象へ追従させる機能**を持つ独自のUdonSharpスクリプトが付与されています。
+::: details Sample_Billboard.prefab
+
+* `DRStandeeShader/Prefab/Sample_Billboard.prefab`
+
+このサンプルには、**オブジェクトの向きをプレイヤーや任意対象へ追従させる機能**を持つ独自のUdonSharpスクリプト `TraceHeadingHandler` が付与されています。
 
 単純なビルボード処理に加え、特定プレイヤー・オブジェクト・座標など複数の追従モードを切り替えることができます。
 
@@ -439,3 +444,4 @@ Assets/
 #### 補足
 * 選択する追従モード（プレイヤー、オブジェクト、座標）によってターゲットの指定方法や更新挙動が異なるため、用途に合わせて各プロパティを調整してください。
 
+:::
