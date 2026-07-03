@@ -1,7 +1,6 @@
 export default {
   title: "DRStandeeShader / タテカンシェーダ",
   base: '/DRStandeeShader/',
-  srcDir: 'docs',
   description: "『DRStandeeShader / タテカンシェーダ』のオンラインマニュアルです。",
   head: [
     ['meta', { name: 'robots', content: 'noindex, nofollow' }]
