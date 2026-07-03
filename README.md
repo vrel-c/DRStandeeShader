@@ -1,2 +1,2 @@
 # DRStandeeShader
-『DRStandeeShader / タテカンシェーダ』のオンラインマニュアル用リポジトリです。
+**DRStandeeShader (Depth-Raised Standee Shader) / タテカンシェーダ** のオンラインマニュアル用リポジトリです。
