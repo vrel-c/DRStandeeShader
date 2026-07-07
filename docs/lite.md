@@ -34,9 +34,8 @@ Assets/
 4. リストから **VRElectroCenter > DRStandeeShader_Lite** を選択します。
 
 ### 2. マテリアルの設定
-1. **Texture** に画像を設定します。
-2. 必要に応じて **Depth Strength** や **Back Color** などを設定します。
-3. 詳細な設定内容については、次の「マテリアルの設定項目」を参照してください。
+1. 必要に応じて **Texture** や **Depth Strength** などを設定します。
+2. 詳細な設定内容については、次の「マテリアルの設定項目」を参照してください。
 
 ### 3. Quadオブジェクトへの適用
 1. **Hierarchy** ウィンドウの空いている場所を右クリックし、**3D Object > Quad** を作成します。
