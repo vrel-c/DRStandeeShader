@@ -11,8 +11,13 @@ title: 権利表記・制作者情報
 本アセットは **VN3ライセンス（VN3 License）** に基づいて配布されています。
 利用条件・禁止事項等については、以下の利用規約をご確認ください。
 
-* [利用規約（日本語版）](https://drive.google.com/file/d/1xd4RYka0acUT5gjxezs_O8hGyG41LPQf/view)
-* [利用規約（英語版）](https://drive.google.com/file/d/17ozqPhKb1f49V1WrirRdDkIvCFlWtzwx/view)
+* Lite版
+  * [Lite版 利用規約（日本語）](https://drive.google.com/file/d/1c0f4_skY68JUKY0U-obQlsqkTaaMvHKj/view)
+  * [Lite版 利用規約（英語）](https://drive.google.com/file/d/1ksT5LenfBmxRxgvpCrrt70Z8vABrAyzS/view)
+
+* 通常版
+  * [利用規約（日本語）](https://drive.google.com/file/d/1xd4RYka0acUT5gjxezs_O8hGyG41LPQf/view)
+  * [利用規約（英語）](https://drive.google.com/file/d/17ozqPhKb1f49V1WrirRdDkIvCFlWtzwx/view)
 
 ## 制作者情報
 
